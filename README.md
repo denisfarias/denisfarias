@@ -1,16 +1,26 @@
-## Hi there 👋
+#📂 Olá! Me chamo Denis! 📄
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**denisfarias/denisfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Sou estudando de Sistemas de Informação na Universidade Carlos Drummond de Andrade - UniDrummond.
+• Minha carreira está em transição de ServiceDesk para programador e computação em nuvem.
 
-Here are some ideas to get you started:
+⚡Esse tem sido um dos meus mantras – foco e aprendizagem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Linguagens e Ferramentas </h1>
+<div>
+  https://camo.githubusercontent.com/07858da9ad3cd19f1e10777508bf1b5470f22f8eb0b3ceaa425e2ff85461e30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png
+https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000
+https://img.icons8.com/?size=100&id=108784&format=png&color=000000
+</div>
+
+<div>
+  <h1> Encontre-me</h1>
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/denis-farias-it/">
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Texto alternativo" />
+</a>
+
+</div>
+
