@@ -9,10 +9,11 @@
 
 <h2> Linguagens e Ferramentas 💻</h2>
 <div>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" width="49" height="49"/>
-<img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="54" height="54"/>
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="53" height="53"/>
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" height="45"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="44" height="44"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="45" height="45"/>
 </div>
 
 <div>
