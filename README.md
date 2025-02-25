@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" width="50" height="50"/>
 <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="55" height="55"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="55" height="55"/>
 </div>
 
 <div>
