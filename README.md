@@ -18,7 +18,7 @@
   <h2> Encontre-me 📫</h2>
 </div>
 <div>
-  <a href="https://www.linkedin.com/in/denis-farias-it/">
+  <a href="https://www.linkedin.com/in/denis-farias-it/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Texto alternativo" width="50" height="50"/>
 </a>
 
