@@ -1,4 +1,4 @@
-📂 Olá! Me chamo Denis! 📄
+📂 Olá! Me chamo Denis. 📄
 ## Bem vindo ao meu perfil GitHub 👋
 
 • Sou estudante de Sistemas de Informação na Universidade Carlos Drummond de Andrade - UniDrummond.
